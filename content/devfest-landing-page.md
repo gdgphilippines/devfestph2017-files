@@ -1,4 +1,4 @@
-devfest-header
+devfest-banner
 =====
 # October 14, 2017
 <devfest-button is-big>
