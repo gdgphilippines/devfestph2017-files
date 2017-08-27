@@ -47,12 +47,20 @@ We are very excited to announce a Call for Speakers for GDG DevFest Philippines.
   {
     "icon": "devfest:chat",
     "title": "Lecture",
-    "text": "40 minutes presentation/demo<br/>10 minutes Q&A<br/>10 minutes intermission between speakers"
+    "text": [
+      "40 minutes presentation/demo",
+      "10 minutes Q&A",
+      "10 minutes intermission between speakers"
+    ]
   },
   {
     "icon": "devfest:laptop",
     "title": "Hands-on Workshop",
-    "text": "30 minutes lecture<br/>1 hour 20 minutes exercises<br/>10 minute intermission between sessions"
+    "text": [
+      "30 minutes lecture",
+      "1 hour 20 minutes exercises",
+      "10 minute intermission between sessions"
+    ]
   }
 ]
 -----
