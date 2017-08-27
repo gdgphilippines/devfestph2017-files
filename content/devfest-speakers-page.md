@@ -12,7 +12,7 @@ We are very excited to announce a Call for Speakers for GDG DevFest Philippines.
 =====
 # Perks
 -----
-.perks-list:json
+.perks-list:json:perks
 =====
 [
   {
@@ -41,7 +41,7 @@ We are very excited to announce a Call for Speakers for GDG DevFest Philippines.
 =====
 # Session Categories
 -----
-.session-list:json
+.session-list:json:sessions
 =====
 [
   {
@@ -60,7 +60,7 @@ We are very excited to announce a Call for Speakers for GDG DevFest Philippines.
 =====
 # Topics
 -----
-.topics-list:json
+.topics-list:json:topics
 =====
 [
   {
@@ -102,7 +102,7 @@ We are very excited to announce a Call for Speakers for GDG DevFest Philippines.
 =====
 # Topics
 -----
-.important-dates-list:json
+.important-dates-list:json:importantDates
 =====
 [
   {
