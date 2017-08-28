@@ -67,6 +67,8 @@ sessions:json:sessions
 .topics-title
 =====
 # Topics
+
+Topics are NOT limited to Google Technologies. It should fall into one of the following areas.
 -----
 topics:json:topics
 =====
@@ -93,7 +95,8 @@ topics:json:topics
       "Machine Learning",
       "Cloud Technologies",
       "Platform Deployment",
-      "Project Scaling"
+      "Project Scaling",
+      "Dev Ops"
     ]
   },
   {
