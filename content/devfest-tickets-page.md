@@ -80,7 +80,7 @@ perks:json
   {
     "icon": "devfest:star",
     "text": "Conference Kit",
-    "sub": ""
+    "sub": "ID, Bag, Sponsorship (Ballpen and Notebook), Stickers"
   },
   {
     "icon": "devfest:food",
