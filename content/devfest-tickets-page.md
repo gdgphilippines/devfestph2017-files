@@ -44,11 +44,13 @@ details:json
 
 To those who doesn't need an official receipt. You can deposit your payment at the bank account details below:
 
+|   |   |
 |---|---|
 | Bank | Unionbank |
 | Acct. Name | Ralph Vincent Regalado |
 | Acct. Number | 109453829582 |
 
+|   |   |
 |---|---|
 | Bank | BDO |
 | Acct. Name | Juvar Abrera |
