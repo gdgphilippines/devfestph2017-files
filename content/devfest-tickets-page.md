@@ -60,7 +60,8 @@ Send the scanned deposit slip to *devfestphilippines@gmail.com*
 
 Follow the email format below:
 
-|---|---|
+|   |   |
+|---:|:---|
 | Subject | DevFest - Payment |
 | Body | Full Name, Address, Company, Position |
 
