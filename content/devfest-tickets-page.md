@@ -56,7 +56,7 @@ To those who doesn't need an official receipt. You can deposit your payment at t
 | Acct. Name | Juvar Abrera |
 | Acct. Number | 001900318146 |
 
-Send the scanned deposit slip to *devfestphilippines@gmail.com*
+Send the scanned deposit slip to **devfestphilippines@gmail.com**
 
 Follow the email format below:
 
