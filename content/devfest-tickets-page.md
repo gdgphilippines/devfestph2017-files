@@ -32,7 +32,7 @@ details:json
 
 ## Online Option
 
-<devfest-button is-big target="_blank" href="https://devfestphilippines.eventbrite.com/">
+<devfest-button target="_blank" href="https://devfestphilippines.eventbrite.com/">
   Go to Eventbrite
 </devfest-button>
 -----
