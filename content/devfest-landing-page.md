@@ -56,6 +56,6 @@ Participants will have the chance to indulge themselves with an after event gath
 
 Be part of the Grandest Technology Conference in the Philippines!
 
-<devfest-button target="_blank" href="#">
+<devfest-button target="_blank" href="https://goo.gl/forms/0YndT60uAyxVTNrH2">
   Be a Sponsor
 </devfest-button>
