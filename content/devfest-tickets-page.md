@@ -1,4 +1,4 @@
-.ticket-details-title
+.ticket-perks-title
 =====
 # Ticket Details
 -----
