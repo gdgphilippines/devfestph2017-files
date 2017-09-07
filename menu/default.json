@@ -1,0 +1,20 @@
+[
+  {
+    "href": "/",
+    "text": "Home",
+    "attributes": {
+      "no-color": true
+    }
+  },
+  {
+    "href": "/speakers",
+    "text": "Call for Speakers",
+    "attributes": {
+      "no-color": true
+    }
+  },
+  {
+    "href": "/tickets",
+    "text": "Get Tickets"
+  }
+]
