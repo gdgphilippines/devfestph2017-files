@@ -23,35 +23,35 @@ perks.$push:md
 -----
 <iron-icon icon="devfest:accommodation"></iron-icon>
 
-## Free Accommodation
+Free Accommodation
 
 =====
 perks.$push:md
 -----
 <iron-icon icon="devfest:video"></iron-icon>
 
-## Video Recording of your Session
+Video Recording of your Session
 
 =====
 perks.$push:md
 -----
 <iron-icon icon="devfest:shirt"></iron-icon>
 
-## DevFest Shirt & Goodie Bag
+DevFest Shirt & Goodie Bag
 
 =====
 perks.$push:md
 -----
 <iron-icon icon="devfest:food"></iron-icon>
 
-## Food and Drinks
+Food and Drinks
 
 =====
 perks.$push:md
 -----
 <iron-icon icon="devfest:ticket"></iron-icon>
 
-## Access to DevFest After Party
+Access to DevFest After Party
 
 =====
 sessionTitle:md
