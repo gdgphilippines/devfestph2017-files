@@ -1,86 +1,58 @@
 [
   {
-    "img": "/speakers/images/sami.jpg",
+    "id": "sami-kizilbash",
     "name": "Sami Kizilbash",
-    "company": "Company",
-    "country": "Country",
-    "href": "/speakers/sami"
+    "position": "",
+    "company": "Google",
+    "country": "Singapore",
+    "companyUrl": "#"
   },
   {
-    "img": "/speakers/images/sami.jpg",
-    "name": "Sami Kizilbash",
-    "company": "Company",
-    "country": "Country",
-    "href": "/speakers/sami"
+    "id": "sam-witteveen",
+    "name": "Sam Witteveen",
+    "position": "",
+    "company": "Google Developers Expert",
+    "country": "Singapore",
+    "companyUrl": "#"
   },
   {
-    "img": "/speakers/images/sami.jpg",
-    "name": "Sami Kizilbash",
-    "company": "Company",
+    "id": "julius-uy",
+    "name": "Julius Uy",
+    "position": "Manager of Engineering",
+    "company": "Rakuten Viki",
     "country": "Country",
-    "href": "/speakers/sami"
+    "companyUrl": "Singapore"
   },
   {
-    "img": "/speakers/images/sami.jpg",
-    "name": "Sami Kizilbash",
-    "company": "Company",
-    "country": "Country",
-    "href": "/speakers/sami"
+    "id": "inaki-villar",
+    "name": "Iñaki Villar",
+    "position": "Android Developer",
+    "company": "Agoda",
+    "country": "Thailand",
+    "companyUrl": "#"
   },
   {
-    "img": "/speakers/images/sami.jpg",
-    "name": "Sami Kizilbash",
-    "company": "Company",
-    "country": "Country",
-    "href": "/speakers/sami"
+    "id": "robert-reyes",
+    "name": "Robert Reyes",
+    "position": "Philippine Representative",
+    "company": "Mozilla",
+    "country": "Philippines",
+    "companyUrl": "#"
   },
   {
-    "img": "/speakers/images/sami.jpg",
-    "name": "Sami Kizilbash",
-    "company": "Company",
-    "country": "Country",
-    "href": "/speakers/sami"
+    "id": "sofia-ang",
+    "name": "Sofia Ang",
+    "position": "Senior Software Engineer",
+    "company": "PayMaya",
+    "country": "Philippines",
+    "companyUrl": "#"
   },
   {
-    "img": "/speakers/images/sami.jpg",
-    "name": "Sami Kizilbash",
-    "company": "Company",
-    "country": "Country",
-    "href": "/speakers/sami"
-  },
-  {
-    "img": "/speakers/images/sami.jpg",
-    "name": "Sami Kizilbash",
-    "company": "Company",
-    "country": "Country",
-    "href": "/speakers/sami"
-  },
-  {
-    "img": "/speakers/images/sami.jpg",
-    "name": "Sami Kizilbash",
-    "company": "Company",
-    "country": "Country",
-    "href": "/speakers/sami"
-  },
-  {
-    "img": "/speakers/images/sami.jpg",
-    "name": "Sami Kizilbash",
-    "company": "Company",
-    "country": "Country",
-    "href": "/speakers/sami"
-  },
-  {
-    "img": "/speakers/images/sami.jpg",
-    "name": "Sami Kizilbash",
-    "company": "Company",
-    "country": "Country",
-    "href": "/speakers/sami"
-  },
-  {
-    "img": "/speakers/images/sami.jpg",
-    "name": "Sami Kizilbash",
-    "company": "Company",
-    "country": "Country",
-    "href": "/speakers/sami"
+    "id": "jekri-preclaro-orlina",
+    "name": "Jekri Preclaro Orlina",
+    "position": "Software Engineer",
+    "company": "Google",
+    "country": "Philippines",
+    "companyUrl": "#"
   }
 ]
