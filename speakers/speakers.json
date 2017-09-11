@@ -5,55 +5,67 @@
     "position": "",
     "company": "Google",
     "country": "Singapore",
-    "companyUrl": "#"
+    "companyUrl": "#",
+    "sessions": []
   },
   "sam-witteveen": {
     "name": "Sam Witteveen",
     "position": "",
     "company": "Google Developers Expert",
     "country": "Singapore",
-    "companyUrl": "#"
+    "companyUrl": "#",
+    "sessions": []
   },
   "julius-uy": {
     "name": "Julius Uy",
     "position": "Manager of Engineering",
     "company": "Rakuten Viki",
     "country": "Singapore",
-    "companyUrl": "#"
+    "companyUrl": "#",
+    "sessions": [
+      "app-analytics"
+    ]
   },
   "inaki-villar": {
     "name": "Iñaki Villar",
     "position": "Android Developer",
     "company": "Agoda",
     "country": "Thailand",
-    "companyUrl": "#"
+    "companyUrl": "#",
+    "sessions": []
   },
   "robert-reyes": {
     "name": "Robert Reyes",
     "position": "Philippine Representative",
     "company": "Mozilla",
     "country": "Philippines",
-    "companyUrl": "#"
+    "companyUrl": "#",
+    "sessions": [
+      "working-together-for-a-better-web"
+    ]
   },
   "sofia-ang": {
     "name": "Sofia Ang",
     "position": "Senior Software Engineer",
     "company": "PayMaya",
     "country": "Philippines",
-    "companyUrl": "#"
+    "companyUrl": "#",
+    "sessions": []
   },
   "jekri-preclaro-orlina": {
     "name": "Jekri Preclaro Orlina",
     "position": "Software Engineer",
     "company": "Google / Concentrix",
     "country": "Philippines",
-    "companyUrl": "#"
+    "companyUrl": "#",
+    "sessions": []
   },
   "howard-dy-go": {
     "name": "Howard Dy Go",
     "position": "Game Developer",
     "company": "MochiBits",
     "country": "Philippines",
-    "companyUrl": "#"
+    "companyUrl": "#",
+    "sessions": []
   }
 }
