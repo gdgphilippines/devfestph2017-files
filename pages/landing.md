@@ -4,7 +4,7 @@ banner:md
 
 Join the Grandest Technology Conference in the Philippines
 
-<devfest-button is-big target="_blank" href="https://devfestphilippines.eventbrite.com/">
+<devfest-button is-big href="/tickets">
   Get Tickets
 </devfest-button>
 
