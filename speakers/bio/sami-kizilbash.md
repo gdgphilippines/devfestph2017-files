@@ -1,3 +1,3 @@
 body:md
 -----
-...
+Sami oversees Google’s Developer Relations activities in South &amp; Southeast Asia, nurturing tech ecosystems and leaders across the region. He has led tech and media ventures at small startups and software giants alike. Early in his Google career, Sami helped lead the company’s market entry into South Asia’s emerging countries. Prior to Google, Sami founded a Singapore-based tech company, launching a cloud-based marketing and business tool catered to retailers and consumers in the region. Sami was a Product Manager in the software and music industries, and has co-produced media productions in Asia, Europe, Africa, and the Middle East, including a TV &amp; web series designed to showcase entrepreneurship talent in emerging markets. Sami majored in Management Information Systems at McGill University and received an MBA from INSEAD where he studied Entrepreneurship and Strategy.
