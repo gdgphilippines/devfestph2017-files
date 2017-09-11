@@ -1,0 +1,3 @@
+body:md
+-----
+Robert 'Bob' Reyes is a Mozilla Rep and Reps Mentor based in Makati City, Philippines. He has been an active contributor to the Mozilla project in the area of localization since 2003. He has been representing the organization in the country since 2011 and has been twice elected to be part of the global organization's leadership as a council member. Bob is now part of Mozilla's Tech Speakers group, which aims to Increase developer awareness and adoption of the Web, Firefox, and Mozilla through a strong community-driven technical speaker development program. Bob is also a Technology Columnist for the Manila Bulletin and Team Manager for the grassroots football team SIPFC. He is a dad to Xeon and Haswell.
