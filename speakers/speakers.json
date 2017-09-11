@@ -51,7 +51,15 @@
     "id": "jekri-preclaro-orlina",
     "name": "Jekri Preclaro Orlina",
     "position": "Software Engineer",
-    "company": "Google",
+    "company": "Google / Concentrix",
+    "country": "Philippines",
+    "companyUrl": "#"
+  },
+  {
+    "id": "howard-dy-go",
+    "name": "Howard Dy Go",
+    "position": "Game Developer",
+    "company": "MochiBits",
     "country": "Philippines",
     "companyUrl": "#"
   }
