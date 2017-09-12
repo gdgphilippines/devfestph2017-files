@@ -79,5 +79,5 @@ venue:md
 Chino Roces Ave., Makati City, Metro Manila
 
 <devfest-button target="_blank" href="https://www.google.com.ph/maps/dir//Green+Sun+-+The+Hotel,+Chino+Roces+Avenue,+Makati,+Metro+Manila/@14.5368619,120.9863905,13z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x3397c93b501f99cb:0x7eda1bdd3a01d2b6!2m2!1d121.0214102!2d14.5368645?hl=en">
-  Get Directions <iron-icon icon="devfest:directions"></iron-icon>
+  Get Directions <iron-icon icon="devfest:open-in-new"></iron-icon>
 </devfest-button>
