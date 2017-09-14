@@ -1,14 +1,18 @@
 {
   "core": {
-    "title": "Core Technologies"
+    "title": "Core Technologies",
+    "bgcolor": "#2196f3"
   },
   "emerging": {
-    "title": "Emerging Technologies"
+    "title": "Emerging Technologies",
+    "bgcolor": "#f44336"
   },
   "dev": {
-    "title": "Dev Ops / Cloud"
+    "title": "Dev Ops / Cloud",
+    "bgcolor": "#ffeb3b"
   },
   "design": {
-    "title": "Design / Distribution"
+    "title": "Design / Distribution",
+    "bgcolor": "#4caf50"
   }
 }
