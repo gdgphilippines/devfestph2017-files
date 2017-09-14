@@ -2,7 +2,7 @@ banner:md
 -----
 |     |     |
 |:---:|:---:|
-|<h1>October 14, 2017 <devfest-icon-button icon="devfest:calendar" href="https://www.google.com/calendar/render?action=TEMPLATE&text=GDG+DevFest+Philippines+2017&dates=20171014T000000Z/20171014T090000Z&details=The+Grandest+Technology+Conference+in+the+Philippines!%0A+%0AVisit+https://devfest.gdgph.org/+for+more+details" target="_blank"></devfest-icon-button></h1>|<h1>Green Sun Hotel<devfest-icon-button icon="devfest:map-marker" href="https://www.google.com.ph/maps/place/Green+Sun+-+The+Hotel/@14.5368697,121.0192215,17z/data=!4m12!1m6!3m5!1s0x3397c93b501f99cb:0x7eda1bdd3a01d2b6!2sGreen+Sun+-+The+Hotel!8m2!3d14.5368645!4d121.0214102!3m4!1s0x3397c93b501f99cb:0x7eda1bdd3a01d2b6!8m2!3d14.5368645!4d121.0214102?hl=en" target="_blank"></devfest-icon-button></h1>|
+|<h2>October 14, 2017 <devfest-icon-button icon="devfest:calendar" href="https://www.google.com/calendar/render?action=TEMPLATE&text=GDG+DevFest+Philippines+2017&dates=20171014T000000Z/20171014T090000Z&details=The+Grandest+Technology+Conference+in+the+Philippines!%0A+%0AVisit+https://devfest.gdgph.org/+for+more+details" target="_blank"></devfest-icon-button></h2>|<h2>Green Sun Hotel<devfest-icon-button icon="devfest:map-marker" href="https://www.google.com.ph/maps/place/Green+Sun+-+The+Hotel/@14.5368697,121.0192215,17z/data=!4m12!1m6!3m5!1s0x3397c93b501f99cb:0x7eda1bdd3a01d2b6!2sGreen+Sun+-+The+Hotel!8m2!3d14.5368645!4d121.0214102!3m4!1s0x3397c93b501f99cb:0x7eda1bdd3a01d2b6!8m2!3d14.5368645!4d121.0214102?hl=en" target="_blank"></devfest-icon-button></h2>|
 
 Join the Grandest Technology Conference in the Philippines
 
