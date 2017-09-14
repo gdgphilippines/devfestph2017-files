@@ -1,0 +1,5 @@
+body:md
+-----
+In software development, the only way we can keep ourselves agile and unafraid of adding new features, making code changes, and enhancements, is to make sure that we have a strong suite of tests – something that we can best accomplish via the practice of test driven development. TDD though can feel frustrating and tedious: maybe you feel like TDD is slowing you down spending much of your time setting up mocks, you think returning a hard
+coded value as simplest code to make a test pass is absurd, or changing some small piece of code makes all your tests fail because TDD produced
+tests that were brittle. In this talk, we''l take a step back and look into clean architecture as a big picture to guide our TDD efforts. We'll also talk about other techniques to make testing fun rather than a pain. We'll do a code walk through of a practical use case and exhibit how TDD done right results in a comprehensive test suite and a clean maintainable system.

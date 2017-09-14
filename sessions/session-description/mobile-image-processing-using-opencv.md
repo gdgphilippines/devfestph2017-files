@@ -1,0 +1,3 @@
+body:md
+-----
+Participants will be introduced to mobile image processing, mainly how to do multiple-image denoising. Multiple-image denoising is a technique used to produce a higher quality image by combining several images captured using the burst mode of the camera. This is done using OPENCV, an open-source image processing library. A sample application will be demonstrated and the source code and techniques used will be given to the participants.
