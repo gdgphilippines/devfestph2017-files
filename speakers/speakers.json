@@ -50,7 +50,9 @@
     "company": "PayMaya",
     "country": "Philippines",
     "companyUrl": "#",
-    "sessions": []
+    "sessions": [
+      "test-driven-development-without-the-pitfalls-through-clean-architecture"
+    ]
   },
   "jekri-preclaro-orlina": {
     "name": "Jekri Preclaro Orlina",
@@ -58,7 +60,19 @@
     "company": "Google / Concentrix",
     "country": "Philippines",
     "companyUrl": "#",
-    "sessions": []
+    "sessions": [
+      "theory-and-mathematics-in-code"
+    ]
+  },
+  "brian-baquiran": {
+    "name": "Brian Baquiran",
+    "position": "Managing Director for Engineering",
+    "company": "Pez.AI",
+    "country": "Philippines",
+    "companyUrl": "#",
+    "sessions": [
+      "continuous-integration-and-deployment-on-google-container-engine"
+    ]
   },
   "howard-dy-go": {
     "name": "Howard Dy Go",
@@ -66,6 +80,58 @@
     "company": "MochiBits",
     "country": "Philippines",
     "companyUrl": "#",
-    "sessions": []
+    "sessions": [
+      "something-to-someone"
+    ]
+  },
+  "alvine-aurelio": {
+    "name": "Alvine Aurelio",
+    "position": "Software Engineer",
+    "company": "Accenture-Avanade",
+    "country": "Philippines",
+    "companyUrl": "#",
+    "sessions": [
+      "building-a-machine-learning-virtual-machine-on-the-cloud"
+    ]
+  },
+  "neil-patrick-del-gallego": {
+    "name": "Neil Patrick Del Gallego",
+    "position": "Assistant Professor",
+    "company": "De La Salle University",
+    "country": "Philippines",
+    "companyUrl": "#",
+    "sessions": [
+      "mobile-image-processing-using-opencv"
+    ]
+  },
+  "misael-alecis-de-vera-jr": {
+    "name": "Misael Alecis De Vera, Jr.",
+    "position": "Front End Developer",
+    "company": "Quarkstudio",
+    "country": "Philippines",
+    "companyUrl": "#",
+    "sessions": [
+      "experience-from-pre-polymer-and-beyond"
+    ]
+  },
+  "andreas-galster": {
+    "name": "Andreas Galster",
+    "position": "Founder",
+    "company": "Product Cafe",
+    "country": "Germany / Philippines",
+    "companyUrl": "#",
+    "sessions": [
+      "lessons-learned-on-getting-polymer-3-app-production-ready"
+    ]
+  },
+  "kenley-tan": {
+    "name": "Kenley Tan",
+    "position": "Associate for Data Science",
+    "company": "Mynt",
+    "country": "Philippines",
+    "companyUrl": "#",
+    "sessions": [
+      "web-components-for-deep-learning"
+    ]
   }
 }

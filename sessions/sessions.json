@@ -4,6 +4,51 @@
     "speaker": "julius-uy",
     "schedule": ""
   },
+  "building-a-machine-learning-virtual-machine-on-the-cloud": {
+    "title": "Building a Machine Learning Virtual Machine on the Cloud",
+    "speaker": "alvine-aurelio",
+    "schedule": ""
+  },
+  "continuous-integration-and-deployment-on-google-container-engine": {
+    "title": "Continuous Integration and Deployment on Google Container Engine",
+    "speaker": "brian-baquiran",
+    "schedule": ""
+  },
+  "experience-from-pre-polymer-and-beyond": {
+    "title": "Experience from pre-Polymer and beyond",
+    "speaker": "misael-alecis-de-vera-jr",
+    "schedule": ""
+  },
+  "lessons-learned-on-getting-polymer-3-app-production-ready": {
+    "title": "Lessons learned on getting a Polymer 3.0 app production ready",
+    "speaker": "andreas-galster",
+    "schedule": ""
+  },
+  "mobile-image-processing-using-opencv": {
+    "title": "Mobile Image Processing using OPENCV",
+    "speaker": "neil-patrick-del-gallego",
+    "schedule": ""
+  },
+  "something-to-someone": {
+    "title": "Something to Someone: Tips on Mobile App Distribution",
+    "speaker": "howard-dy-go",
+    "schedule": ""
+  },
+  "test-driven-development-without-the-pitfalls-through-clean-architecture": {
+    "title": "Test Driven Development without the Pitfalls through Clean Architecture",
+    "speaker": "sofia-ang",
+    "schedule": ""
+  },
+  "theory-and-mathematics-in-code": {
+    "title": "Theory and Mathematics in Code - The Fun Way",
+    "speaker": "jekri-preclaro-orlina",
+    "schedule": ""
+  },
+  "web-components-for-deep-learning": {
+    "title": "Web Components for Deep Learning",
+    "speaker": "kenley-tan",
+    "schedule": ""
+  },
   "working-together-for-a-better-web": {
     "title": "Working Together for a Better Web",
     "speaker": "robert-reyes",
