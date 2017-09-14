@@ -1,1 +1,118 @@
-[]
+[
+  {
+    "id": "0800",
+    "start": 8,
+    "end": 9,
+    "sessions": [
+      {
+        "title": "Opening"
+      }
+    ]
+  },
+  {
+    "id": "0900",
+    "start": 9,
+    "end": 10,
+    "sessions": [
+      {
+        "session": "keynote",
+        "speaker": ""
+      }
+    ]
+  },
+  {
+    "id": "1000",
+    "start": 10,
+    "end": 11,
+    "sessions": [
+    ]
+  },
+  {
+    "id": "1100",
+    "start": 11,
+    "end": 12,
+    "sessions": [
+      {
+        "session": "app-analytics"
+      }
+    ]
+  },
+  {
+    "id": "1200",
+    "start": 12,
+    "end": 13,
+    "sessions": [
+      {
+        "title": "Lunch"
+      }
+    ]
+  },
+  {
+    "id": "1300",
+    "start": 13,
+    "end": 14,
+    "sessions": [
+      {
+        "session": "lessons-learned-on-getting-polymer-3-app-production-ready"
+      },
+      {
+        "session": "mobile-image-processing-using-opencv"
+      },
+      {
+        "session": "continuous-integration-and-deployment-on-google-container-engine"
+      },
+      {
+        "session": "something-to-someone"
+      }
+    ]
+  },
+  {
+    "id": "1400",
+    "start": 14,
+    "end": 15,
+    "sessions": [
+      {
+        "session": "working-together-for-a-better-web"
+      },
+      {
+        "session": "building-a-machine-learning-virtual-machine-on-the-cloud"
+      }
+    ]
+  },
+  {
+    "id": "1500",
+    "start": 15,
+    "end": 16,
+    "sessions": [
+      {
+        "session": "experience-from-pre-polymer-and-beyond"
+      },
+      {
+        "session": "web-components-for-deep-learning"
+      },
+      {
+        "session": "test-driven-development-without-the-pitfalls-through-clean-architecture"
+      },
+      {
+        "session": "theory-and-mathematics-in-code"
+      }
+    ]
+  },
+  {
+    "id": "1600",
+    "start": 16,
+    "end": 17,
+    "sessions": [
+    ]
+  },
+  {
+    "id": "1700",
+    "start": 17,
+    "end": 17.5,
+    "sessions": [
+      {
+        "title": "Closing"
+      }
+    ]
+  }
+]

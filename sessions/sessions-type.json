@@ -1,0 +1,14 @@
+{
+  "core": {
+    "title": "Core Technologies"
+  },
+  "emerging": {
+    "title": "Emerging Technologies"
+  },
+  "dev": {
+    "title": "Dev Ops / Cloud"
+  },
+  "design": {
+    "title": "Design / Distribution"
+  }
+}
