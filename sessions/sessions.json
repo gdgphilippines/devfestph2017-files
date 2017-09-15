@@ -1,12 +1,73 @@
 {
+  "keynote": {
+    "title": "Keynote",
+    "speaker": "",
+    "schedule": "0900"
+  },
   "app-analytics": {
     "title": "App Analytics: What Every App Developer Needs to Know",
     "speaker": "julius-uy",
-    "schedule": ""
+    "schedule": "1100",
+    "type": "design"
+  },
+  "building-a-machine-learning-virtual-machine-on-the-cloud": {
+    "title": "Building a Machine Learning Virtual Machine on the Cloud",
+    "speaker": "alvine-aurelio",
+    "schedule": "1400",
+    "type": "dev"
+  },
+  "continuous-integration-and-deployment-on-google-container-engine": {
+    "title": "Continuous Integration and Deployment on Google Container Engine",
+    "speaker": "brian-baquiran",
+    "schedule": "1300",
+    "type": "dev"
+  },
+  "experience-from-pre-polymer-and-beyond": {
+    "title": "Experience from pre-Polymer and beyond",
+    "speaker": "misael-alecis-de-vera-jr",
+    "schedule": "1500",
+    "type": "core"
+  },
+  "lessons-learned-on-getting-polymer-3-app-production-ready": {
+    "title": "Lessons learned on getting a Polymer 3.0 app production ready",
+    "speaker": "andreas-galster",
+    "schedule": "1300",
+    "type": "core"
+  },
+  "mobile-image-processing-using-opencv": {
+    "title": "Mobile Image Processing using OPENCV",
+    "speaker": "neil-patrick-del-gallego",
+    "schedule": "1300",
+    "type": "emerging"
+  },
+  "something-to-someone": {
+    "title": "Something to Someone: Tips on Mobile App Distribution",
+    "speaker": "howard-dy-go",
+    "schedule": "1300",
+    "type": "design"
+  },
+  "test-driven-development-without-the-pitfalls-through-clean-architecture": {
+    "title": "Test Driven Development without the Pitfalls through Clean Architecture",
+    "speaker": "sofia-ang",
+    "schedule": "1500",
+    "type": "dev"
+  },
+  "theory-and-mathematics-in-code": {
+    "title": "Theory and Mathematics in Code - The Fun Way",
+    "speaker": "jekri-preclaro-orlina",
+    "schedule": "1500",
+    "type": "core"
+  },
+  "web-components-for-deep-learning": {
+    "title": "Web Components for Deep Learning",
+    "speaker": "kenley-tan",
+    "schedule": "1500",
+    "type": "emerging"
   },
   "working-together-for-a-better-web": {
     "title": "Working Together for a Better Web",
     "speaker": "robert-reyes",
-    "schedule": ""
+    "schedule": "1400",
+    "type": "core"
   }
 }

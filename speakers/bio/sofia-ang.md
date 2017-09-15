@@ -1,2 +1,3 @@
 body:md
 -----
+Sofia is a Senior Software Engineer at PayMaya Philippines where she currently works on new payment acceptance products borne from the research and prototypes her team produced during IdeaSpace 2016. Previously, she worked on cross-cutting concerns of API security for PayMaya’s microservices. With 5 years of fintech and consulting experience employing microservices, she champions domain driven design and clean architecture as foundation for producing high-performing and maintainable microservices. Having had a blast in IdeaSpace and Global Mobile Challenge – business and pitching competitions, she aspires to be a Product Manager with technical and business prowess.

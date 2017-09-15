@@ -14,6 +14,13 @@
     }
   },
   {
+    "href": "/sessions",
+    "text": "Schedule",
+    "attributes": {
+      "noColor": true
+    }
+  },
+  {
     "href": "/tickets",
     "text": "Get Tickets"
   }
