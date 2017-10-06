@@ -22,6 +22,9 @@
   },
   {
     "href": "/tickets",
-    "text": "Tickets Sold Out!"
+    "text": "Tickets Sold Out!",
+    "attributes": {
+      "red": true
+    }
   }
 ]

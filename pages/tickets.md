@@ -41,7 +41,7 @@ payment.$push
 
 ## Online Option
 
-<devfest-button disable target="_blank" href="https://devfestphilippines.eventbrite.com/">
+<devfest-button red disable target="_blank" href="https://devfestphilippines.eventbrite.com/">
   Sold Out!
 </devfest-button>
 
