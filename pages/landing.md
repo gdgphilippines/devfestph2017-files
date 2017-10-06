@@ -197,6 +197,11 @@ sponsorsData:json
         "image": "rsz_gsm_blue_flavors_blue.png"
       },
       {
+        "name": "Ginebra",
+        "url": "",
+        "image": "rsz_1rsz_premium_gin_logo_-_black.png"
+      },
+      {
         "name": "Chang Beer",
         "url": "",
         "image": "rsz_chang-logo.jpg"
@@ -207,6 +212,11 @@ sponsorsData:json
     "name": "Contributing Partners:"
     "class": "contributing-partners"
     "list": [
+      {
+        "name": "Events Avenue",
+        "url": "",
+        "image": "rsz_events-avenue-logo-2017.png"
+      },
       {
         "name": "Kalibrr",
         "url": "",
