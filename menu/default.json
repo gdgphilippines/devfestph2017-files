@@ -21,6 +21,13 @@
     }
   },
   {
+    "href": "/sponsors",
+    "text": "Sponsors",
+    "attributes": {
+      "noColor": true
+    }
+  },
+  {
     "href": "/tickets",
     "text": "Tickets Sold Out!",
     "attributes": {
