@@ -6,8 +6,8 @@ banner:md
 
 Join the Grandest Technology Conference in the Philippines
 
-<devfest-button is-big href="/tickets">
-  Get Tickets
+<devfest-button disable is-big href="/tickets">
+  Sold Out!
 </devfest-button>
 
 =====
