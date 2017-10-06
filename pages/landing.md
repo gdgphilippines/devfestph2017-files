@@ -85,7 +85,7 @@ sponsorsData:json
 		"class": "event-partner",
 		"list": [{
 				"name": "PayMaya",
-				"url": "",
+				"url": "http://www.paymaya.com/",
 				"image": "rsz_paymaya_logo.png"
 			},
 			{
@@ -100,7 +100,7 @@ sponsorsData:json
 		"class": "hotel-partner",
 		"list": [{
 			"name": "Azalea Hotels and Residences",
-			"url": "",
+			"url": "http://www.azalea.com.ph/",
 			"image": "rsz_azalea.png"
 		}]
 	},
@@ -134,7 +134,7 @@ sponsorsData:json
 			},
 			{
 				"name": "Kai Energy Drink",
-				"url": "",
+				"url": "http://www.kaienergydrink.com/",
 				"image": "rsz_kai.png"
 			},
 			{
@@ -144,22 +144,22 @@ sponsorsData:json
 			},
 			{
 				"name": "Freshman",
-				"url": "",
+				"url": "http://www.elev8trading.com.ph/",
 				"image": "rsz_freshman_red_line_copy.jpg"
 			},
 			{
 				"name": "Lazada",
-				"url": "",
+				"url": "http://www.lazada.com.ph/",
 				"image": "rsz_lazada.png"
 			},
 			{
 				"name": "Resorts World",
-				"url": "",
+				"url": "http://www.rwmanila.com/",
 				"image": "rsz_1rsz_1rsz_rwm_logo_3.png"
 			},
 			{
 				"name": "Trampoline Park",
-				"url": "",
+				"url": "http://www.trampolinepark.ph/",
 				"image": "rsz_amazing-trampoline.png"
 			},
 			{
@@ -209,7 +209,7 @@ sponsorsData:json
 			},
 			{
 				"name": "Kalibrr",
-				"url": "",
+				"url": "https://www.kalibrr.com/?utm_source=email&utm_medium=footer&utm_campaign=email-signature&utm_content=email-signature-footer-link&ref=email_free_email-signature_email-signature-footer-link",
 				"image": "rsz_1rsz_kalibrr_logo_-_colored.png"
 			},
 			{
@@ -229,7 +229,7 @@ sponsorsData:json
 			},
 			{
 				"name": "HWM",
-				"url": "",
+				"url": "http://www.hardwarezone.com.ph/",
 				"image": "rsz_1rsz_hwm_logo.jpg"
 			},
 			{
@@ -239,7 +239,7 @@ sponsorsData:json
 			},
 			{
 				"name": "Inquirer.net",
-				"url": "",
+				"url": "http://inquirer.net/",
 				"image": "rsz_inquirernet.png"
 			},
 			{
@@ -249,7 +249,7 @@ sponsorsData:json
 			},
 			{
 				"name": "The Philippine Star",
-				"url": "",
+				"url": "http://www.philstar.com/the-philippine-star",
 				"image": "rsz_1rsz_the_philippine_star.png"
 			}, {
 				"name": "WhenInManila.com",
