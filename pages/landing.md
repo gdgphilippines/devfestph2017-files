@@ -22,7 +22,7 @@ GDG DevFest Philippines brings together experts in Android, Web and Cloud techno
 In this conference, our goal is to equip you with new knowledge and skills that you can immediately apply or bring back to your companies.
 
 =====
-aboutImage:src
+about"image":src
 -----
     /images/about-image-compressed-1.jpg
 
@@ -67,12 +67,199 @@ sponsors:md
 -----
 # Sponsors
 
-Be part of the Grandest Technology Conference in the Philippines!
-
-<devfest-button target="_blank" href="https://goo.gl/forms/0YndT60uAyxVTNrH2">
-  Be a Sponsor
-</devfest-button>
-
+The Grandest Technology Conference in the Philippines woud like to thanke our sponsors.
+=====
+sponsorsData:json
+-----
+[
+  {
+    "name": "Powered by:"
+    "class": "powered"
+    "list": [
+      {
+        "name": "Google",
+        "url": "",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "name": "Official Event Partner:"
+    "class": "event-partner"
+    "list": [
+      {
+        "name": "PayMaya",
+        "url": "",
+        "image": ""
+      },
+      {
+        "name": "Voyager",
+        "url": "",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "name": "Official Hotel Partner:"
+    "class": "hotel-partner"
+    "list": [
+      {
+        "name": "Azalea Hotels and Residences",
+        "url": "",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "name": "Also brought to you by:"
+    "class": "brought-to-you"
+    "list": [
+      {
+        "name": "Zott",
+        "url": "",
+        "image": ""
+      },
+      {
+        "name": "Zott Jogole",
+        "url": "",
+        "image": ""
+      },
+      {
+        "name": "Linkage Foods",
+        "url": "",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "name": "Special thanks to:"
+    "class": "special-thanks"
+    "list": [
+      {
+        "name": "Oreo",
+        "url": "",
+        "image": ""
+      },
+      {
+        "name": "Kai Energy Drink",
+        "url": "",
+        "image": ""
+      },
+      {
+        "name": "Crystal Clear",
+        "url": "",
+        "image": ""
+      },
+      {
+        "name": "Freshman",
+        "url": "",
+        "image": ""
+      },
+      {
+        "name": "Lazada",
+        "url": "",
+        "image": ""
+      },
+      {
+        "name": "Resorts World",
+        "url": "",
+        "image": ""
+      },
+      {
+        "name": "Trampoline Park",
+        "url": "",
+        "image": ""
+      },
+      {
+        "name": "Emerald Headway",
+        "url": "",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "name": "Party Sponsors:"
+    "class": "party-sponsors"
+    "list": [
+      {
+        "name": "Spektral",
+        "url": "",
+        "image": ""
+      },
+      {
+        "name": "Ginebra San Miguel",
+        "url": "",
+        "image": ""
+      },
+      {
+        "name": "GSM Blue",
+        "url": "",
+        "image": ""
+      },
+      {
+        "name": "Chang Beer",
+        "url": "",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "name": "Contributing Partners:"
+    "class": "contributing-partners"
+    "list": [
+      {
+        "name": "Kalibrr",
+        "url": "",
+        "image": ""
+      },
+      {
+        "name": "Teradoor.com",
+        "url": "",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "name": "Official Media Partners:"
+    "class": "media-partners"
+    "list": [
+      {
+        "name": "ANC",
+        "url": "",
+        "image": ""
+      },
+      {
+        "name": "HWM",
+        "url": "",
+        "image": ""
+      },
+      {
+        "name": "Hardware Zone",
+        "url": "",
+        "image": ""
+      },
+      {
+        "name": "Inquirer.net",
+        "url": "",
+        "image": ""
+      },
+      {
+        "name": "Philstar Global",
+        "url": "",
+        "image": ""
+      },
+      {
+        "name": "The Philippine Star",
+        "url": "",
+        "image": ""
+      },{
+        "name": "WhenInManila.com",
+        "url": "",
+        "image": ""
+      }
+    ]
+  }
+]
 =====
 venue:md
 -----
