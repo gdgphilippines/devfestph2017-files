@@ -67,7 +67,7 @@ sponsors:md
 -----
 # Sponsors
 
-The Grandest Technology Conference in the Philippines woud like to thanke our sponsors.
+The Grandest Technology Conference in the Philippines woud like to thank our sponsors.
 =====
 sponsorsData:json
 -----
