@@ -52,28 +52,9 @@ payment.$push
 
 ## Offline Option
 
-To those who doesn't need an official receipt. You can deposit your payment at the bank account details below:
-
-|   |   |
-|---:|:---|
-| Bank | Unionbank |
-| Acct. Name | Ralph Vincent Regalado |
-| Acct. Number | 109453829582 |
-
-|   |   |
-|---:|:---|
-| Bank | BDO |
-| Acct. Name | Juvar Abrera |
-| Acct. Number | 001900318146 |
-
-Send the scanned deposit slip to **devfestphilippines@gmail.com**
-
-Follow the email format below:
-
-|   |   |
-|---:|:---|
-| Subject | DevFest - Payment |
-| Body | Full Name, Address, Company, Position |
+<devfest-button red disable target="_blank" href="https://devfestphilippines.eventbrite.com/">
+  Sold Out!
+</devfest-button>
 
 =====
 perksTitle:md
