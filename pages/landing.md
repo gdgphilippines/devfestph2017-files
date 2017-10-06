@@ -79,7 +79,7 @@ sponsorsData:json
       {
         "name": "Google",
         "url": "",
-        "image": ""
+        "image": "rsz_google.png"
       }
     ]
   },
@@ -90,12 +90,12 @@ sponsorsData:json
       {
         "name": "PayMaya",
         "url": "",
-        "image": ""
+        "image": "rsz_paymaya_logo.png"
       },
       {
         "name": "Voyager",
         "url": "",
-        "image": ""
+        "image": "rsz_voyager.png"
       }
     ]
   },
@@ -106,7 +106,7 @@ sponsorsData:json
       {
         "name": "Azalea Hotels and Residences",
         "url": "",
-        "image": ""
+        "image": "rsz_azalea.png"
       }
     ]
   },
@@ -117,17 +117,17 @@ sponsorsData:json
       {
         "name": "Zott",
         "url": "",
-        "image": ""
+        "image": "rsz_zott-logosvg_1.png"
       },
       {
         "name": "Zott Jogole",
         "url": "",
-        "image": ""
+        "image": "rsz_jogole_logo.png"
       },
       {
         "name": "Linkage Foods",
         "url": "",
-        "image": ""
+        "image": "rsz_lfvc_logo.jpg"
       }
     ]
   },
@@ -138,42 +138,42 @@ sponsorsData:json
       {
         "name": "Oreo",
         "url": "",
-        "image": ""
+        "image": "rsz_1rsz_oreo.png"
       },
       {
         "name": "Kai Energy Drink",
         "url": "",
-        "image": ""
+        "image": "rsz_kai.png"
       },
       {
         "name": "Crystal Clear",
         "url": "",
-        "image": ""
+        "image": "rsz_crystal_clear.jpg"
       },
       {
         "name": "Freshman",
         "url": "",
-        "image": ""
+        "image": "rsz_freshman_red_line_copy.jpg"
       },
       {
         "name": "Lazada",
         "url": "",
-        "image": ""
+        "image": "rsz_lazada.png"
       },
       {
         "name": "Resorts World",
         "url": "",
-        "image": ""
+        "image": "rsz_1rsz_1rsz_rwm_logo_3.png"
       },
       {
         "name": "Trampoline Park",
         "url": "",
-        "image": ""
+        "image": "rsz_amazing-trampoline.png"
       },
       {
         "name": "Emerald Headway",
         "url": "",
-        "image": ""
+        "image": "rsz_1rsz_ehdi_hi_res_logo.jpg"
       }
     ]
   },
@@ -184,22 +184,22 @@ sponsorsData:json
       {
         "name": "Spektral",
         "url": "",
-        "image": ""
+        "image": "rsz_spektral_beer_lounge.png"
       },
       {
         "name": "Ginebra San Miguel",
         "url": "",
-        "image": ""
+        "image": "rsz_1rsz_gsmi_logo_high_resolution.jpg"
       },
       {
         "name": "GSM Blue",
         "url": "",
-        "image": ""
+        "image": "rsz_gsm_blue_flavors_blue.png"
       },
       {
         "name": "Chang Beer",
         "url": "",
-        "image": ""
+        "image": "rsz_chang-logo.jpg"
       }
     ]
   },
@@ -210,12 +210,12 @@ sponsorsData:json
       {
         "name": "Kalibrr",
         "url": "",
-        "image": ""
+        "image": "rsz_1rsz_kalibrr_logo_-_colored.png"
       },
       {
         "name": "Teradoor.com",
         "url": "",
-        "image": ""
+        "image": "rsz_1rsz_teradoor_with_slogan_hd_1.png"
       }
     ]
   },
@@ -226,36 +226,36 @@ sponsorsData:json
       {
         "name": "ANC",
         "url": "",
-        "image": ""
+        "image": "rsz_anc.png"
       },
       {
         "name": "HWM",
         "url": "",
-        "image": ""
+        "image": "rsz_1rsz_hwm_logo.jpg"
       },
       {
         "name": "Hardware Zone",
         "url": "",
-        "image": ""
+        "image": "rsz_hwz-ph-color-onwhite.jpg"
       },
       {
         "name": "Inquirer.net",
         "url": "",
-        "image": ""
+        "image": "rsz_inquirernet.png"
       },
       {
         "name": "Philstar Global",
         "url": "",
-        "image": ""
+        "image": "rsz_1rsz_philstar.png"
       },
       {
         "name": "The Philippine Star",
         "url": "",
-        "image": ""
+        "image": "rsz_1rsz_the_philippine_star.png"
       },{
         "name": "WhenInManila.com",
         "url": "",
-        "image": ""
+        "image": "rsz_1rsz_when-in-manila.png"
       }
     ]
   }
