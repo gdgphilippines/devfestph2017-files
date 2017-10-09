@@ -6,15 +6,20 @@
     "company": "Google",
     "country": "Singapore",
     "companyUrl": "#",
-    "sessions": []
+    "sessions": [
+      "keynote",
+      "introduction-to-arcore"
+    ]
   },
   "sam-witteveen": {
     "name": "Sam Witteveen",
-    "position": "",
-    "company": "Google Developers Expert",
+    "position": "CEO",
+    "company": "Red Dragon AI",
     "country": "Singapore",
     "companyUrl": "#",
-    "sessions": []
+    "sessions": [
+      "tensorflow-deep-learning-in-action"
+    ]
   },
   "julius-uy": {
     "name": "Julius Uy",
@@ -32,7 +37,9 @@
     "company": "Agoda",
     "country": "Thailand",
     "companyUrl": "#",
-    "sessions": []
+    "sessions": [
+      "kotlin-is-here"
+    ]
   },
   "robert-reyes": {
     "name": "Robert Reyes",
@@ -104,16 +111,6 @@
       "mobile-image-processing-using-opencv"
     ]
   },
-  "misael-alecis-de-vera-jr": {
-    "name": "Misael Alecis De Vera, Jr.",
-    "position": "Front End Developer",
-    "company": "Quarkstudio",
-    "country": "Philippines",
-    "companyUrl": "#",
-    "sessions": [
-      "experience-from-pre-polymer-and-beyond"
-    ]
-  },
   "andreas-galster": {
     "name": "Andreas Galster",
     "position": "Founder",
@@ -132,6 +129,86 @@
     "companyUrl": "#",
     "sessions": [
       "web-components-for-deep-learning"
+    ]
+  },
+  "johnny-benitez": {
+    "name": "Johnny Benitez",
+    "position": "Solutions Engineer for Google Cloud",
+    "company": "Google",
+    "country": "Philippines",
+    "companyUrl": "#",
+    "sessions": [
+      "introduction-to-google-cloud-platform"
+    ]
+  },
+  "eunice-sari": {
+    "name": "Dr. Eunice Sari",
+    "position": "CEO and Founder",
+    "company": "UX Indonesia",
+    "country": "Indonesia",
+    "companyUrl": "#",
+    "sessions": [
+      "affective-and-effective-ui"
+    ]
+  },
+  "charibeth-cheng": {
+    "name": "Charibeth Cheng",
+    "position": "Head of Research",
+    "company": "Senti",
+    "country": "Philippines",
+    "companyUrl": "#",
+    "sessions": [
+      "introduction-to-nlp"
+    ]
+  },
+  "mikko-de-vera": {
+    "name": "Mikko De Vera",
+    "position": "Front End Developer",
+    "company": "Quarkstudio",
+    "country": "Philippines",
+    "companyUrl": "#",
+    "sessions": [
+      "introduction-to-nlp"
+    ]
+  },
+  "angela-obias-tuban": {
+    "name": "Angela Obias-Tuban",
+    "position": "Design Research Director",
+    "company": "Priority Studios",
+    "country": "Philippines",
+    "companyUrl": "#",
+    "sessions": [
+      "the-force-and-dark-side-of-data-driven-design"
+    ]
+  },
+  "jez-reel-maghuyop": {
+    "name": "Jez Reel Maghuyop",
+    "position": "Developer",
+    "company": "Magenic",
+    "country": "Philippines",
+    "companyUrl": "#",
+    "sessions": [
+      "whats-new-in-angular-4-and-best-practices"
+    ]
+  },
+  "albert-padin": {
+    "name": "Albert Padin",
+    "position": "",
+    "company": "",
+    "country": "Philippines",
+    "companyUrl": "#",
+    "sessions": [
+      "whats-new-in-angular-4-and-best-practices"
+    ]
+  },
+  "gail-tan": {
+    "name": "Gail Tan",
+    "position": "Head of Communications and Public Affairs",
+    "company": "Google",
+    "country": "Philippines and Thailand",
+    "companyUrl": "#",
+    "sessions": [
+      "whats-new-in-angular-4-and-best-practices"
     ]
   }
 }
