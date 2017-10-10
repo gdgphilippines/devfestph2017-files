@@ -1,0 +1,5 @@
+# 10. More chat!
+
+Once you're in the web simulator, try out a full chat again and notice how things like the SSML are actually parsed and how our Assistant App is invoked.
+
+Thanks for taking the time to go through the Firebase Assistant Codelab! If you're interested in designing your own Assistant App, take a look through the Actions on Google documentation at [https://developers.google.com/actions](https://developers.google.com/actions). In particular, check out our best practices within the [Design Walkthrough](https://developers.google.com/actions/design/walkthrough) and the [Design Checklist](https://developers.google.com/actions/design/checklist). And finally, if you think your new agent is ready for the public, we've outlined guidance and the process on [the Distribution page](https://developers.google.com/actions/distribute/).
