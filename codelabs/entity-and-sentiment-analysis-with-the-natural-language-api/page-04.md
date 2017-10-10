@@ -1,25 +1,11 @@
-# 3. Enable the Cloud Natural Language API
+# 4. Activate Cloud Shell
 
-Click on the menu icon in the top left of the screen.
+Google Cloud Shell is [a command line environment running in the Cloud](https://cloud.google.com/developer-shell/#how_do_i_get_started). This Debian-based virtual machine is loaded with all the development tools you'll need (`gcloud`, `bq`, `git` and others) and offers a persistent 5GB home directory. We'll use Cloud Shell to create our request to the Natural Language API.
 
-![Google Cloud Platform Image 1](https://codelabs.developers.google.com/codelabs/cloud-nl-intro/img/742dc285f86cdd1f.png)
+To get started with Cloud Shell, Click on the "Activate Google Cloud Shell" <img src="https://codelabs.developers.google.com/codelabs/cloud-nl-intro/img/3b409efdcc18f697.png" alt="Shell Icon" width="25" height="25" class="small"/> icon in top right hand corner of the header bar
 
-Select **API Manager** from the drop down.
+![Google Developers Console Image](https://codelabs.developers.google.com/codelabs/cloud-nl-intro/img/c692e03178ca2054.png)
 
-![Google Cloud Platform Image 2](https://codelabs.developers.google.com/codelabs/cloud-nl-intro/img/4cafd05ec8d75ebf.png)
+A Cloud Shell session opens inside a new frame at the bottom of the console and displays a command-line prompt. Wait until the user@project:~$ prompt appears
 
-Click on **Enable API**.
-
-![Google Cloud Platform Image 3](https://codelabs.developers.google.com/codelabs/cloud-nl-intro/img/b89ac55cfe522b88.png)
-
-Then, search for "language" in the search box. Click on **Google Cloud Natural Language API**:
-
-![Google Cloud Platform Image 4](https://codelabs.developers.google.com/codelabs/cloud-nl-intro/img/eedf4d1120135223.png)
-
-Click **Enable** to enable the Cloud Natural Language API:
-
-![Google Cloud Platform Image 5](https://codelabs.developers.google.com/codelabs/cloud-nl-intro/img/d19e531cb8a5e719.png)
-
-Wait for a few seconds for it to enable. You will see this once it's enabled:
-
-![Google Cloud Platform Image 6](https://codelabs.developers.google.com/codelabs/cloud-nl-intro/img/33d0985404b64e9a.png)
+![Cloud Shell Image](https://codelabs.developers.google.com/codelabs/cloud-nl-intro/img/15dc56a9ef4d8093.png)
