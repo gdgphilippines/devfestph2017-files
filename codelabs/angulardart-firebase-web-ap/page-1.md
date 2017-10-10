@@ -1,4 +1,4 @@
-# Introduction
+# 1. Introduction
 
 This codelab walks you through using AngularDart and Firebase to create a web app with a realtime shared counter.
 
