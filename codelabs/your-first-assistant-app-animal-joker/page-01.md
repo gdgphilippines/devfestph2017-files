@@ -21,7 +21,7 @@ Google Home is a voice activated speaker that users keep in their home.
 
 The Google Assistant is the conversation between the users and Google. They can get things done by talking with the Assistant. There are many things users can do by just using the Assistant directly. To learn more about the assistant check out this short video: [https://www.youtube.com/watch?v=FPfQMVf4vwQ](https://www.youtube.com/watch?v=FPfQMVf4vwQ)
 
-![Google Assistant Image 1](https://codelabs.developers.google.com/codelabs/your-first-kids-action-on-google/img/2c192df592477179.png)
+![Google Assistant Image 2](https://codelabs.developers.google.com/codelabs/your-first-kids-action-on-google/img/2c192df592477179.png)
 
 Actions on Google allows developers to extend the assistant. A developer can build an app for the Assistant as well, but instead of opening it through your phone, you open it by talking to the Assistant!
 
