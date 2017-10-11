@@ -137,11 +137,7 @@ sponsorsData:json
 	{
 		"name": "Contributing Partners:",
 		"class": "contributing-partners",
-		"list": [{
-				"name": "Events Avenue",
-				"url": "",
-				"image": "rsz_events-avenue-logo-2017.png"
-			},
+		"list": [
 			{
 				"name": "Kalibrr",
 				"url": "https://www.kalibrr.com/?utm_source=email&utm_medium=footer&utm_campaign=email-signature&utm_content=email-signature-footer-link&ref=email_free_email-signature_email-signature-footer-link",

@@ -1,2 +1,3 @@
 body:md
 -----
+Sam is a serial entrepreneur who has built multiple startups in diverse industries. He is Google Developer Expert for Machine Learning and Deep Learning as well as being the co-organizer of the TensorFlow & Deep Learning Singapore meet up group and regularly shares his knowledge in training sessions on TensorFlow, applied Deep Learning and AI.  Sam is especially passionate about deep learning in the field of natural language understanding and conversational agents and is currently CEO of Red Dragon AI.

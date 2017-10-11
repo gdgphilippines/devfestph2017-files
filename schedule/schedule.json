@@ -1,8 +1,8 @@
 [
   {
     "id": "0800",
-    "start": 8,
-    "end": 9,
+    "start": "0800",
+    "end": "0900",
     "sessions": [
       {
         "title": "Opening"
@@ -11,36 +11,84 @@
   },
   {
     "id": "0900",
-    "start": 9,
-    "end": 10,
+    "start": "0900",
+    "end": "0940",
     "sessions": [
       {
-        "session": "keynote",
-        "speaker": ""
+        "session": "keynote"
+      }
+    ]
+  },
+  {
+    "id": "0940",
+    "start": "0940",
+    "end": "1000",
+    "sessions": [
+      {
+        "title": "Coffee Break"
       }
     ]
   },
   {
     "id": "1000",
-    "start": 10,
-    "end": 11,
-    "sessions": [
-    ]
-  },
-  {
-    "id": "1100",
-    "start": 11,
-    "end": 12,
+    "start": "1000",
+    "end": "1050",
     "sessions": [
       {
-        "session": "app-analytics"
+        "session": "tensorflow-deep-learning-in-action",
+        "room": "The Eye"
+      },
+      {
+        "session": "affective-and-effective-ui",
+        "room": "Focus 1 & 2"
+      },
+      {
+        "session": "introduction-to-google-cloud-platform",
+        "room": "Focus 3 & 4"
+      },
+      {
+        "session": "kotlin-is-here",
+        "room": "Focus 6"
       }
     ]
   },
   {
-    "id": "1200",
-    "start": 12,
-    "end": 13,
+    "id": "1050",
+    "start": "1050",
+    "end": "1100",
+    "sessions": [
+      {
+        "title": "Coffee Break"
+      }
+    ]
+  },
+  {
+    "id": "1100",
+    "start": "1100",
+    "end": "1150",
+    "sessions": [
+      {
+        "session": "app-analytics",
+        "room": "The Eye"
+      },
+      {
+        "session": "functional-programming-in-javascript-more-work-less-code-less-bugs",
+        "room": "Focus 1 & 2"
+      },
+      {
+        "session": "continuous-integration-and-deployment-on-google-container-engine",
+        "room": "Focus 3 & 4"
+      },
+      {
+        "session": "lessons-learned-on-getting-polymer-3-app-production-ready",
+        "room": "Focus 6"
+      }
+    ]
+  },
+  {
+    "id": "1150",
+    "start": "1150",
+    "end": "1300",
     "sessions": [
       {
         "title": "Lunch"
@@ -49,69 +97,130 @@
   },
   {
     "id": "1300",
-    "start": 13,
-    "end": 14,
+    "start": "1300",
+    "end": "1350",
     "sessions": [
       {
-        "session": "lessons-learned-on-getting-polymer-3-app-production-ready"
+        "session": "something-to-someone",
+        "room": "The Eye"
       },
       {
-        "session": "mobile-image-processing-using-opencv"
+        "session": "web-components-for-deep-learning",
+        "room": "Focus 1 & 2"
       },
       {
-        "session": "continuous-integration-and-deployment-on-google-container-engine"
+        "session": "building-a-machine-learning-virtual-machine-on-the-cloud",
+        "room": "Focus 3 & 4"
       },
       {
-        "session": "something-to-someone"
+        "session": "working-together-for-a-better-web",
+        "room": "Focus 6"
+      }
+    ]
+  },
+  {
+    "id": "1350",
+    "start": "1350",
+    "end": "1400",
+    "sessions": [
+      {
+        "title": "Coffee Break"
       }
     ]
   },
   {
     "id": "1400",
-    "start": 14,
-    "end": 15,
+    "start": "1400",
+    "end": "1450",
     "sessions": [
       {
-        "session": "working-together-for-a-better-web"
+        "session": "introduction-to-arcore",
+        "room": "The Eye"
       },
       {
-        "session": "building-a-machine-learning-virtual-machine-on-the-cloud"
+        "session": "introduction-to-nlp",
+        "room": "Focus 1 & 2"
+      },
+      {
+        "session": "test-driven-development-without-the-pitfalls-through-clean-architecture",
+        "room": "Focus 3 & 4"
+      },
+      {
+        "session": "mobile-image-processing-using-opencv",
+        "room": "Focus 6"
+      }
+    ]
+  },
+  {
+    "id": "1450",
+    "start": "1450",
+    "end": "1500",
+    "sessions": [
+      {
+        "title": "Coffee Break"
       }
     ]
   },
   {
     "id": "1500",
-    "start": 15,
-    "end": 16,
+    "start": "1500",
+    "end": "1550",
     "sessions": [
       {
-        "session": "experience-from-pre-polymer-and-beyond"
+        "session": "the-force-and-dark-side-of-data-driven-design",
+        "room": "The Eye"
       },
       {
-        "session": "web-components-for-deep-learning"
+        "session": "experience-from-pre-polymer-and-beyond",
+        "room": "Focus 1 & 2"
       },
       {
-        "session": "test-driven-development-without-the-pitfalls-through-clean-architecture"
+        "session": "whats-new-in-angular-4-and-best-practices",
+        "room": "Focus 3 & 4"
       },
       {
-        "session": "functional-programming-in-javascript-more-work-less-code-less-bugs"
+        "session": "introduction-to-kubernetes",
+        "room": "Focus 6"
+      }
+    ]
+  },
+  {
+    "id": "1550",
+    "start": "1550",
+    "end": "1600",
+    "sessions": [
+      {
+        "title": "Coffee Break"
       }
     ]
   },
   {
     "id": "1600",
-    "start": 16,
-    "end": 17,
+    "start": "1600",
+    "end": "1630",
     "sessions": [
+      {
+        "title": "Sponsors Talk"
+      }
+    ]
+  },
+  {
+    "id": "1630",
+    "start": "1630",
+    "end": "1700",
+    "sessions": [
+      {
+        "session": "closing-remarks"
+      }
     ]
   },
   {
     "id": "1700",
-    "start": 17,
-    "end": 17.5,
+    "start": "1700",
+    "end": "1730",
     "sessions": [
       {
-        "title": "Closing"
+        "title": "Raffle"
       }
     ]
   }

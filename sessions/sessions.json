@@ -1,7 +1,7 @@
 {
   "keynote": {
     "title": "Keynote",
-    "speaker": "",
+    "speaker": "sami-kizilbash",
     "schedule": "0900"
   },
   "app-analytics": {
@@ -24,7 +24,7 @@
   },
   "experience-from-pre-polymer-and-beyond": {
     "title": "Experience from pre-Polymer and beyond",
-    "speaker": "misael-alecis-de-vera-jr",
+    "speaker": "mikko-de-vera",
     "schedule": "1500",
     "type": "core"
   },
@@ -69,5 +69,72 @@
     "speaker": "robert-reyes",
     "schedule": "1400",
     "type": "core"
+  },
+  "kotlin-is-here": {
+    "title": "Kotlin is Here",
+    "speaker": "inaki-villar",
+    "schedule": "1000",
+    "type": "core"
+  },
+  "tensorflow-deep-learning-in-action": {
+    "title": "TensorFlow: Deep Learning in Action",
+    "speaker": "sam-witteveen",
+    "schedule": "1000",
+    "type": "emerging"
+  },
+  "introduction-to-google-cloud-platform": {
+    "title": "Introduction to Google Cloud Platform",
+    "speaker": "johnny-benitez",
+    "schedule": "1000",
+    "type": "dev"
+  },
+  "affective-and-effective-ui": {
+    "title": "Affective and Effective UI: Linking Google Design Sprint with Google Material Design",
+    "speaker": "eunice-sari",
+    "schedule": "1000",
+    "type": "design"
+  },
+  "introduction-to-arcore": {
+    "title": "Introduction to ARCore",
+    "speaker": "sami-kizilbash",
+    "schedule": "1400",
+    "type": "emerging"
+  },
+  "introduction-to-nlp": {
+    "title": "Introduction to NLP",
+    "speaker": "charibeth-cheng",
+    "schedule": "1400",
+    "type": "emerging"
+  },
+  "the-force-and-dark-side-of-data-driven-design": {
+    "title": "The Force and Dark Side of Data-Driven Design",
+    "speaker": "angela-obias-tuban",
+    "schedule": "1500",
+    "type": "design"
+  },
+  "whats-new-in-angular-4-and-best-practices": {
+    "title": "What's new in Angular 4 and Best Practices",
+    "speaker": "jez-reel-maghuyop",
+    "schedule": "1500",
+    "type": "core"
+  },
+  "introduction-to-kubernetes": {
+    "title": "Introduction to Kubernetes",
+    "speaker": "albert-padin",
+    "schedule": "1500",
+    "type": "emerging"
+  },
+  "closing-remarks": {
+    "title": "Closing Remarks",
+    "speaker": "gail-tan",
+    "schedule": "1630"
+  },
+  "community-lounge-1": {
+    "title": "Community Lounge Session 1",
+    "speakers": [
+      "sami-kizilbash",
+      "julius-uy"
+    ],
+    "schedule": "1000"
   }
 }
