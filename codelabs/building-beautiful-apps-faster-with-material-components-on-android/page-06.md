@@ -6,5 +6,5 @@ We started with a basic ecommerce application, but gave it new life with Materia
 > A final version of the app is available within the `demos/codelabs/building-beautiful-apps/completed` directory. Feel free to test your version of the app against the completed app in the directory.
 
 
-#### Where to go from here
+### Where to go from here
 This simple example demonstrates a few important components, but Material Components for Android has more to offer. Take a look at the Material Design [GitHub repository](https://github.com/material-components/material-components-android), which contains all of the code that makes up the library, as well as [documentation](https://material.io/components/android/catalog/) for the components, and [applications](https://github.com/material-components/material-components-android/tree/master/demos/java/io/material/demo/shrine) that demonstrate a wider variety of components and usage. Thank you for giving Material Components for Android a try, and we hoped you enjoyed this codelab!
