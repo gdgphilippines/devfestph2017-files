@@ -1,3 +1,5 @@
+tnc:md
+-----
 # Terms and conditions and privacy policy
 
 By registering your account to this app, and scanning/connecting your ticket/id to this account, you agree to the terms and conditions provided for using this app.
