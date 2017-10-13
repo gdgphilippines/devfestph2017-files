@@ -4,7 +4,7 @@
 > * Please answer **all** of the questions below.
 > * Submit your answers in a file named, `answers.txt`, as part of your GitHub repo.
 > * List your answers following the sample format below. (Note: No spaces between question number & answer)
-> * Letter answers must be capitalized.
+> * Letter answers must be **capitalized**.
 >
 > **answers.txt** 
 > ```
@@ -53,15 +53,15 @@
 	* **[B]** `tf_files/retrained_labels.txt`
 	* **[C]** `tf_files/label_image.txt`
 
-8. It is the option that controls the name in tensorboard
+8. It is the option that controls the name in tensorboard.
 	* **[A]** `--learning_rate`
 	* **[B]** `--summaries_dir`
 	* **[C]** `--image_dir`
 
 9. It is an informal term we often use for the layer just before the final output layer that actually does the classification.
-	* **[A]** softmax
-	* **[B]** prediction
-	* **[C]** bottleneck
+	* **[A]** Softmax
+	* **[B]** Prediction
+	* **[C]** Bottleneck
 
 10. It is a loss function that gives a glimpse into how well the learning process is progressing.
 	* **[A]** Cross Entropy

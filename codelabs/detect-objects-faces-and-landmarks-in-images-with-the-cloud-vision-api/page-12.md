@@ -4,7 +4,7 @@
 > * Please answer **all** of the questions below.
 > * Submit your answers in a file named, `answers.txt`, as part of your GitHub repo.
 > * List your answers following the sample format below. (Note: No spaces between question number & answer)
-> * Letter answers must be capitalized.
+> * Letter answers must be **capitalized**.
 >
 > **answers.txt** 
 > ```
