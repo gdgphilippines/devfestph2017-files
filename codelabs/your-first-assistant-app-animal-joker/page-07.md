@@ -4,7 +4,7 @@
 > * Please answer **all** of the questions below.
 > * Submit your answers in a file named, `answers.txt`, as part of your GitHub repo.
 > * List your answers following the sample format below. (Note: No spaces between question number & answer)
-> * Letter answers must be capitalized.
+> * Letter answers must be **capitalized**.
 >
 > **answers.txt** 
 > ```
@@ -20,12 +20,12 @@
 ### Questions
 1. Google has been investing heavily in two areas. This area is concerned with being able to understand you when you are talking.
 	* **[A]** Machine Learning
-	* **[B]** Speech recognition and Language understanding
+	* **[B]** Speech Recognition and Language Understanding
 	* **[C]** Machine Vision
 
 2. Google has been investing heavily in two areas. This area is concerned with teaching computers how to see patterns in data and act on it.
 	* **[A]** Machine Learning
-	* **[B]** Speech recognition and Language understanding
+	* **[B]** Speech Recognition and Language Understanding
 	* **[C]** Machine Vision
 
 3. It is a voice activated speaker that users keep in their home.
