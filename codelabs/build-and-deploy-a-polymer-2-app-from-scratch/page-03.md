@@ -1,4 +1,4 @@
-## 3. Create a Polymer app from a template
+# 3. Create a Polymer app from a template
 
 1. Create a folder for your app, cd to it, and initialize your Polymer app
 ```
@@ -44,7 +44,7 @@ Let's take a look at `src/whose-flag-app/whose-flag-app.html`. Open this file in
 
 ```html
 <link rel="import" href="../../bower_components/polymer/polymer-element.html">
- 
+
  <dom-module id="whose-flag-app">
    <template>
      <style>
@@ -54,7 +54,7 @@ Let's take a look at `src/whose-flag-app/whose-flag-app.html`. Open this file in
      </style>
      <h2>Hello [[prop1]]!</h2>
    </template>
- 
+
    <script>
      /**
       * @customElement
@@ -71,7 +71,7 @@ Let's take a look at `src/whose-flag-app/whose-flag-app.html`. Open this file in
          };
        }
      }
- 
+
      window.customElements.define(WhoseFlagApp.is, WhoseFlagApp);
    </script>
  </dom-module>

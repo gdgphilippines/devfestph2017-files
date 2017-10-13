@@ -1,4 +1,4 @@
-## 8. Load country data from a file
+# 8. Load country data from a file
 We'll add some code to load the country data from a file. First, have a look inside the `whose-flag/data/` folder that you downloaded earlier. This folder contains:
 - A file called `countrycodes.json` which stores a list of country codes and the names of those countries.
 
@@ -125,7 +125,7 @@ static get properties() {
       type: Object
     }
   };
-}        
+}
 ```
 
 Now, we'll create the `_handleResponse method`. This method will do three things:
@@ -176,7 +176,7 @@ Replace it with the following code:
 <div id="answer-button-container">
   <paper-button class="answer" id="optionA" on-click="_selectAnswer">[[countryA.name]]</paper-button>
   <paper-button class="answer" id="optionB" on-click="_selectAnswer">[[countryB.name]]</paper-button>
-</div> 
+</div>
 ```
 
 Now that we have assigned values from the data file to the country options, we can delete the hard-coded values in the properties function.

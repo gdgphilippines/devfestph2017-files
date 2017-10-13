@@ -1,4 +1,4 @@
-## 7. Set up data bindings
+# 7. Set up data bindings
 
 The text of your buttons is currently hard-coded. You need to change this so that you can display the button text from a data source. To do this, you will bind the text of your buttons to properties of your `whose-flag-app` element.
 
@@ -88,7 +88,7 @@ Replace it with a data binding:
 correctAnswer: {
     type: String,
     value: "Brazil"
-  }, 
+  },
   userAnswer: {
     type: String,
     value: "Brazil"

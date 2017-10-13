@@ -1,4 +1,4 @@
-## Style your app
+# Style your app
 
 Let's give your app some style. You will use an existing color scheme found in the `<paper-styles>` component, which provides an easy implementation of material design.
 

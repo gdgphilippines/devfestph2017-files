@@ -1,10 +1,10 @@
-## 10. Extra Credit: Build the app for production, and deploy it to Firebase
+# 10. Extra Credit: Build the app for production, and deploy it to Firebase
 
 ### Build the app for production
 
 Now you'll generate a **build** of your app. You'll package up the app into a format that you can push to an external-facing web server.
 
-1. With a text editor, create a new file called `polymer.json`. Save it in the root `whose-flag` project folder. 
+1. With a text editor, create a new file called `polymer.json`. Save it in the root `whose-flag` project folder.
 2. Paste the following text into `polymer.json`, and save the file:
 
 ```json
@@ -83,7 +83,7 @@ firebase init
 | Do you want to install dependencies with npm now? | Y |
 | What do you want to use as your public directory? | build/default |
 | Configure as a single-page app (rewrite all urls to /index.html)? | N |
-| File build/default/index.html already exists. Overwrite? | N | 
+| File build/default/index.html already exists. Overwrite? | N |
 
 ![](https://codelabs.developers.google.com/codelabs/whose-flag/img/99564c6ffe0d5109.png)
 
