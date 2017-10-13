@@ -153,9 +153,15 @@ sponsorsData:json
 	{
 		"name": "Official Media Partners:",
 		"class": "media-partners",
-		"list": [{
+		"list": [
+			{
 				"name": "ANC",
 				"url": "",
+				"image": "rsz_anc.png"
+			},
+			{
+				"name": "GMA News Online",
+				"url": "rsz_1rsz_gma_news_online.jpg",
 				"image": "rsz_anc.png"
 			},
 			{
