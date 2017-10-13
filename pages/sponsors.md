@@ -161,8 +161,8 @@ sponsorsData:json
 			},
 			{
 				"name": "GMA News Online",
-				"url": "rsz_1rsz_gma_news_online.jpg",
-				"image": "rsz_anc.png"
+				"url": "",
+				"image": "rsz_1rsz_gma_news_online.png"
 			},
 			{
 				"name": "HWM",
