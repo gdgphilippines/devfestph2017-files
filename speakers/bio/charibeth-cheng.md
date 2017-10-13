@@ -1,2 +1,3 @@
 body:md
 -----
+Charibeth K. Cheng is an assistant professor in the Software Technology Department, and the External Affair Director of the College of Computer Studies at De La Salle University. She is also a senior researcher and one of the pioneer researchers of its Center for Language Technologies, where she and her students work on developing computational models, tools and electronic resources that will make the machine process and understand text written in Filipino. She is also the co-founder of SENTi Techlabs, Inc., a tech start-up that monitors social media by understanding the very dynamic and fast evolving Filipino language.

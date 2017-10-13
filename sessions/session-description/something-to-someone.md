@@ -1,2 +1,3 @@
 body:md
 -----
+This talk begins by pointing out there are no tried and true formulas for successful mobile app distribution. There are many dependencies, rules of thumb, and unproven theories; sift through them here to improve your luck at distribution. Learn when to spend and how to spend on user acquisition and when not to bother with a pre-launch marketing campaign, maximize your efforts with practical advice, and see how smart planning and execution can increase your app's chances to get millions of downloads with or without an App Store feature, a marketing budget, or accidentally going viral.

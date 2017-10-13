@@ -109,7 +109,7 @@
         "room": "Focus 1 & 2"
       },
       {
-        "session": "building-a-machine-learning-virtual-machine-on-the-cloud",
+        "session": "test-driven-development-without-the-pitfalls-through-clean-architecture",
         "room": "Focus 3 & 4"
       },
       {
@@ -142,7 +142,7 @@
         "room": "Focus 1 & 2"
       },
       {
-        "session": "test-driven-development-without-the-pitfalls-through-clean-architecture",
+        "session": "building-a-machine-learning-virtual-machine-on-the-cloud",
         "room": "Focus 3 & 4"
       },
       {
@@ -200,7 +200,7 @@
     "end": "1630",
     "sessions": [
       {
-        "title": "Sponsors Talk"
+        "title": "Sponsors Talk - Paymaya and Voyager"
       }
     ]
   },
