@@ -1,2 +1,3 @@
 body:md
 -----
+Angela has over 12 years of experience in digital product design and research. Her experience ranges from e-commerce sites, financial tech apps, to content consumption on different devices. She has focused her career on blending “thick" data with content and design execution, to understand the story behind experiences. Angela has had the opportunity to hone her craft at Philippine Survey and Research Center, ABS-CBN Corporation, Nuworks Interactive Labs, McCann Worldgroup, YesCredit and Ideaspace Foundation.
