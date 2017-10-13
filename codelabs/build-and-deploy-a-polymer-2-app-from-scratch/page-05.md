@@ -1,11 +1,11 @@
-## 5. Create the user interface with existing Web Components
+# 5. Create the user interface with existing Web Components
 
 In the following steps, you'll import and use interface elements from [WebComponents.org](https://www.webcomponents.org/) to define the visual appearance of your app.
 
 ### Add a toolbar
 
 1. Open a new terminal window.
- 
+
  Type `cd whose-flag` to get to your root project folder.
 
  Install the `app-layout` elements:
@@ -64,7 +64,7 @@ This is just placeholder text, and you can safely delete it. Replace it with thi
 ```
 
 #### Points to note:
- 
+
 - Adding custom elements to your code is that easy! Simply install and import them. Once that's done, you can drop them onto your page with HTML tags, just like you would with a standard `<h1>` or `<input>` element.
 - The `<app-toolbar>` element looks for a main-title div element in order to figure out how to format it.
 
@@ -87,7 +87,7 @@ In the following steps, we will add the rest of the user interface.
 ### whose-flag-app.html
 ```html
 <div id="flag-image-container">
-  <iron-image 
+  <iron-image
     id="flag-image"
     preload fade src="data/svg/BR.svg">
   </iron-image>
@@ -120,7 +120,7 @@ bower install paper-button --save
   <paper-button id="optionB" class="answer">Uruguay</paper-button>
 </div>
 <p>A message will go here, telling you if you got it right.</p>
-<paper-button class="another" id="another">Another!</paper-button> 
+<paper-button class="another" id="another">Another!</paper-button>
 ```
 Your app should look like this
 ![](https://codelabs.developers.google.com/codelabs/whose-flag/img/409ad2510551d37a.png)

@@ -1,4 +1,4 @@
-## 4. Serve the app locally
+# 4. Serve the app locally
 
 Cool - you made an app! It's that easy. The app doesn't do much yet, but let's take a look at it.
 

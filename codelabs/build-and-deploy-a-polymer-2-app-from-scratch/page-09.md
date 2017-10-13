@@ -1,4 +1,4 @@
-## 9. Randomize the country options
+# 9. Randomize the country options
 
 In this step, we make the game dynamic and playable.
 
@@ -35,7 +35,7 @@ __getRandomCountry() {
   <template>
     ...
   </template>
-  
+
   <script>
     ...
     class WhoseFlagApp extends Polymer.Element {
